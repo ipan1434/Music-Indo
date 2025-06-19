@@ -11,8 +11,8 @@ lyricsgenius
 motor
 pillow==9.5.0
 psutil
-py-tgcalls==2.0.6
-croniter
+py-tgcalls==5.9.7
+pykeyboard
 Kurigram==2.1.35
 python-dotenv
 pyyaml==5.3.1
