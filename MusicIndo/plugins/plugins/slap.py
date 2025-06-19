@@ -1,6 +1,6 @@
 from MusicIndo import app
 from pyrogram import filters
-import nekos
+
 
 
 @app.on_message(filters.command("slap"))
